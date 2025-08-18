@@ -1,2 +1,2 @@
-# qiskitsummerschool2025
-lab notebooks
+# internship workfiles
+starting from 18 Aug
